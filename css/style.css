@@ -1,0 +1,19 @@
+body {
+  font-family: 'Arsenal', sans-serif;
+  color: #C0C0C0;
+  font-weight: 400;
+}
+hr {
+  background-color: #BCBBBB;
+  color: #BCBBBB;
+  height:3px;
+}
+img {
+  border-radius: 15px;
+}
+.title {
+  font-size: 60px;
+}
+.top-image {
+  margin-top: 15px;
+}
